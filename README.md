@@ -12,3 +12,5 @@
 *This* begins a new tex file project using GitHub.
 
 > This is a cite of testing.
+
+And **this is a darker piece of text**.
