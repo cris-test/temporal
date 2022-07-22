@@ -14,3 +14,12 @@
 > This is a cite of testing.
 
 And **this is a darker piece of text**.
+
+~~~mermaid
+graph LR;
+
+A-->B;
+A-->C;
+B-->D;
+C-->D;
+~~~
