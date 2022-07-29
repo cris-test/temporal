@@ -7,3 +7,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - run: lshw
+  show_uname:
+    runs-on: ubuntu-latest
+    steps:
+      - run: uname -a
