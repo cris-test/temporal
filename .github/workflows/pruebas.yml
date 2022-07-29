@@ -1,0 +1,9 @@
+name: Uno prueba uno
+
+on: workflow_dispatch
+
+jobs:
+  ver_info_sistema:
+    runs-on: ubuntu-latest
+    steps:
+      - run: lshw
